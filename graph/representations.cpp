@@ -107,6 +107,7 @@ void edge_list2(){
 }
 
 int main(){
+	// edge_list();
 	edge_list2();
 	return 0;
 }
